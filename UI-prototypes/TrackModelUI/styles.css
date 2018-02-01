@@ -7,7 +7,7 @@
 	top: 50px;
 	display: inline-block;
 	width: 39%;
-	height: 500px;
+	height: 520px;
 }
 
 .right {
@@ -16,7 +16,7 @@
 	top: 50px;
 	display: inline-block;
 	width: 59%;
-	height: 500px;
+	height: 520px;
 }
 
 .info {
@@ -55,6 +55,7 @@
 	height: 100%;
 	border: 3px solid grey;
 	position: relative;
+	overflow: scroll;
 }
 .data input {
 	width: 80%;

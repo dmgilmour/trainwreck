@@ -57,7 +57,7 @@ function cutPower() {
 }
 function genData() {
 	var temp1 = document.getElementById("dataseg");
-	temp1.innerHTML = "Block length: 100m<br>Grade: 2%<br>status: empty";
+	temp1.innerHTML = "Block length: 100m<br>Grade: 2%<br>switch: N/A<br>signal: green<br>status: empty<br>Next Block: 7<br>Station: Inglewood";
 }
 
 
